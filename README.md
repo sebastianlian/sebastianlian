@@ -1,18 +1,18 @@
 # Hi there 👋 I'm Sebastian L. Carmagnola!
 
-I'm a software developer and aspiring AI researcher, currently building innovative projects in **Natural Language Processing, Sentiment Analysis, and Machine Learning**.
+I'm a software developer and aspiring AI researcher, currently building innovative projects in **Natural Language Processing, Sentiment Analysis, Machine Learning, and Web Development**.
 
 ---
 
 ## 🚀 Current Focus
-- 🧠 Building **AI-driven applications** and **sentiment analysis** models.
-- 🔬 Researching **NLP techniques** and **cognitive computing**.
+- 🧠 Building **AI-driven applications** and **machine learning** models.
+- 🔬 Researching **algorithims** and **machine learning**.
 - 🛠️ Developing a **mental health chatbot and analytics dashboard**.
 
 ---
 
 ## 📚 Currently Learning
-- 🤖 Deep Learning with **PyTorch & TensorFlow**.
+- 🤖 Deep Learning with **PyTorch**.
 - 🛠️ Advanced **MERN stack** development.
 - 📈 AI-powered **data visualization & analytics**.
 
