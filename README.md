@@ -11,9 +11,10 @@ I'm a software developer and aspiring AI researcher, currently building innovati
 
 ---
 
-## 📚 Currently Learning
-- 🤖 Deep Learning with **PyTorch**.
-- 🛠️ Advanced **MERN stack** development.
+## 📚 Currently Reading & Learning
+- Deep Learning by John D. Kelleher
+- 🤖 Machine Learning Models 
+- 🛠️ Advanced **MERN stack** development
 - 📈 AI-powered **data visualization & analytics**.
 
 ---
