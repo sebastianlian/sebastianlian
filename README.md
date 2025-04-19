@@ -19,6 +19,11 @@ I'm a software developer and aspiring AI researcher, currently building innovati
 
 ---
 
+## 💼 Check my Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://sebastianlian.github.io/portfolio/)
+
+---
+
 ## 🤝 Looking to Collaborate On
 - **Machine Learning and AI projects** (NLP, Sentiment Analysis).
 - **Open-source software** in web development & AI applications.
