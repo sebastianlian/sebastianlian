@@ -1,21 +1,6 @@
-# Hi there 👋 I'm Sebastian L. Carmagnola!
+# Hi there 👋 I'm Bash,
 
-I'm a software developer and aspiring AI researcher, currently building innovative projects in **Natural Language Processing, Sentiment Analysis, Machine Learning, and Web Development**.
-
----
-
-## 🚀 Current Focus
-- 🧠 Building **AI-driven applications** and **machine learning** models.
-- 🔬 Researching **algorithims** and **machine learning**.
-- 🛠️ Developing a **mental health chatbot and analytics dashboard**.
-
----
-
-## 📚 Currently Reading & Learning
-- Deep Learning by John D. Kelleher
-- 🤖 Machine Learning Models 
-- 🛠️ Advanced **MERN stack** development
-- 📈 AI-powered **data visualization & analytics**.
+I'm a software developer and aspiring researcher, currently building innovative projects in **Anomaly Detection, Machine Learning, and Web Development**.
 
 ---
 
@@ -25,9 +10,8 @@ I'm a software developer and aspiring AI researcher, currently building innovati
 ---
 
 ## 🤝 Looking to Collaborate On
-- **Machine Learning and AI projects** (NLP, Sentiment Analysis).
-- **Open-source software** in web development & AI applications.
-- **Hackathons & research-driven innovations**.
+- **Machine Learning and AI projects**
+- **Hackathons & research-driven innovations**
 
 ---
 
