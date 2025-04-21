@@ -2,16 +2,14 @@
 
 I'm a software developer and aspiring researcher, currently building innovative projects in **Anomaly Detection, Machine Learning, and Web Development**.
 
+## 🤝 Looking to Collaborate On
+- Machine Learning and AI projects
+- Hackathons & research-driven innovations
+
 ---
 
 ## 💼 Check my Portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://sebastianlian.github.io/portfolio/)
-
----
-
-## 🤝 Looking to Collaborate On
-- **Machine Learning and AI projects**
-- **Hackathons & research-driven innovations**
 
 ---
 
