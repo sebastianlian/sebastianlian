@@ -4,7 +4,6 @@ I'm a software developer and aspiring researcher, currently building innovative 
 
 ## 🤝 Looking to Collaborate On
 - Machine Learning and AI projects
-- Hackathons & research-driven innovations
 
 ---
 
