@@ -1,9 +1,6 @@
 # Hi there 👋 I'm Bash,
 
-I'm a software developer and aspiring researcher, currently building innovative projects in **Anomaly Detection, Machine Learning, and Web Development**.
-
-## 🤝 Looking to Collaborate On
-- Machine Learning and AI projects
+I'm a full stack software developer currently building innovative projects in **Anomaly Detection, Machine Learning, and Web Development**.
 
 ---
 
