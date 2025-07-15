@@ -1,7 +1,3 @@
-# Hi there 👋 I'm Sebastian,
-
-I'm a full stack software developer currently building innovative projects in **Anomaly Detection, Machine Learning, and Web Development**.
-
 ## 💼 Check my Portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://sebastianlian.github.io/portfolio/)
 
